@@ -1,0 +1,10 @@
+GITHUB STEPS
+ONE TIME ACTIVITY
+1.OPEN REPOSITORY IN github
+2.git init (TO INITIALISE LOCAL REPOSITORY)
+
+GIT COMMAND:-
+git add . (moved files from untracked to tracked area)
+git status (checked current status code)
+git commit -m (m mwans "message") (to commit the changes)
+git push origin master (to push code from local to remote server)
